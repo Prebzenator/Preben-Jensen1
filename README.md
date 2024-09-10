@@ -4,3 +4,4 @@ Prebzenator
 Klarer jeg å dra denne over mon tro
 Go gunners!
 Fra github til lokalmaskin
+Bra jobba!
